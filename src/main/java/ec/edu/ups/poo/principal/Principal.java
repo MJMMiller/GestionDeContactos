@@ -10,6 +10,8 @@ public class Principal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Primer commit Nicolás Cedillo");
+
         System.out.print("Ingrese la cantidad de personas: ");
         int nPersonas = scanner.nextInt();
         System.out.print("Ingrese la cantidad de familiares: ");
