@@ -11,6 +11,7 @@ public class Principal {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Primer commit Nicolás Cedillo");
+        System.out.println("Segundo commit Nicolás Cedillo");
 
         System.out.print("Ingrese la cantidad de personas: ");
         int nPersonas = scanner.nextInt();
