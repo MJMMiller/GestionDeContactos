@@ -13,6 +13,8 @@ public class Principal {
         System.out.println("Primer commit Nicolás Cedillo");
         System.out.println("Segundo commit Nicolás Cedillo");
 
+        System.out.println("Commit desde la rama feature");
+
         System.out.print("Ingrese la cantidad de personas: ");
         int nPersonas = scanner.nextInt();
         System.out.print("Ingrese la cantidad de familiares: ");
